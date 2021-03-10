@@ -1,0 +1,9 @@
+int x
+int y 15.8
+if()
+{
+y = 32.2.
+}
+primer 
+intento
+12345
