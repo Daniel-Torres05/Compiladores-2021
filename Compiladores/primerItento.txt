@@ -1,0 +1,9 @@
+var int varTolomeo@
+var int y = 12.3
+==
+!=
+<=
+if(x=="Pepe es bonito")
+{
+y = 58.5
+}
